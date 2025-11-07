@@ -14,4 +14,4 @@ Our goal was to:
 ### 📁Project Deliverables
 - Cleaned Excel :
 - Tableau Dashboard :
-- Powerpoint Presentation:
+- Powerpoint Presentation: [PPT](https://github.com/BavyaNalajala01/Credit-Card-User-Attrition-Analysis/blob/main/Credit%20Card%20User%20Behavior%20Analysis-Group%209.twbx)
