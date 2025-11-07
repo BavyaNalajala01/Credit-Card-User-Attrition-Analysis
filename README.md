@@ -12,6 +12,6 @@ Our goal was to:
 -Provide data-backed recommendations to improve customer engagement and retention.
 
 ### 📁Project Deliverables
-- Cleaned Excel :
-- Tableau Dashboard :
+- Cleaned Excel : [Excel](https://github.com/BavyaNalajala01/Credit-Card-User-Attrition-Analysis/blob/main/MIS%20561%20Credit%20Card%20User%20Attrition-CLEANED%20(1).xlsx)
+- Tableau Dashboard : 
 - Powerpoint Presentation: [PPT](https://github.com/BavyaNalajala01/Credit-Card-User-Attrition-Analysis/blob/main/Credit%20Card%20User%20Behavior%20Analysis-Group%209.twbx)
