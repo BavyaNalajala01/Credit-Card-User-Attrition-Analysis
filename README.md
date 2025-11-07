@@ -18,21 +18,15 @@ Our goal was to:
 
 ## 🧹Data Summary & Cleaning
 
-The dataset includes:
+### Dataset includes:
+- Demographics :Age, Gender, Education, Marital Status, Income
+- Engagement Metrics: Active Months, Contact Count
+- Financial Data: Credit Limit, Utilization Ratio, Transaction Count
 
--Demographics:
--Age, Gender, Education, Marital Status, Income
-
--Engagement Metrics: Active Months, Contact Count
-
--Financial Data: Credit Limit, Utilization Ratio, Transaction Count
-
-Cleaning Steps:
--Removed ~10% of missing demographic fields (kept as "unknown" to preserve integrity).
-
--Standardized variable names.
-
--Prepared pivot tables and summary stats for attrited vs. existing customers.
+### Cleaning Steps:
+- Removed ~10% of missing demographic fields (kept as "unknown" to preserve integrity).
+- Standardized variable names.
+- Prepared pivot tables and summary stats for attrited vs. existing customers.
 
 ## 📈Key Insights
 
@@ -40,34 +34,46 @@ Cleaning Steps:
 
 Interactive visuals enabled filtering by gender, education, and marital status to identify numeric trends driving attrition.
 
--Insight: Retaining high-utilization and higher-income customers leads to stronger growth.
+- Insight: Retaining high-utilization and higher-income customers leads to stronger growth.
 
 ### Transaction Volume by Retention Pattern
 
 Scatterplot analysis revealed mid-tier customers (50–80 transactions) are at the highest churn risk.
 
--Strategy: Target retention programs for this group while replicating successful engagement tactics from high-value customers.
+- Strategy: Target retention programs for this group while replicating successful engagement tactics from high-value customers.
 
 ### Attrited Customers by Inactivity Period
 
 Bar graphs highlighted the correlation between inactivity duration and attrition rate.
 
--Strategy: Launch re-engagement campaigns targeting age-based inactivity segments.
+- Strategy: Launch re-engagement campaigns targeting age-based inactivity segments.
 
 ### Expenditure vs. Relationship Count
 
 Spending decreases as customers hold more relationships.
 
--Insight: Multiple products may dilute engagement; reward customers with 1–2 relationships to sustain spending.
+- Insight: Multiple products may dilute engagement; reward customers with 1–2 relationships to sustain spending.
 
 ### Transaction Count vs. Revolving Balance
 
 Scatterplot revealed diverse customer behaviors across balance levels.
 
--Strategy: Offer premium cards to high-balance, low-transaction customers and educate others on card benefits.
+- Strategy: Offer premium cards to high-balance, low-transaction customers and educate others on card benefits.
 
 ##  🔮Future Scope
--Build predictive models to forecast attrition trends.
--Analyze top-tier customers to identify loyalty drivers.
--Integrate digital engagement metrics (e.g., mobile app usage).
--Expand segmentation to understand spending and payment behavior deeper.
+- Build predictive models to forecast attrition trends.
+- Analyze top-tier customers to identify loyalty drivers.
+- Integrate digital engagement metrics (e.g., mobile app usage).
+- Expand segmentation to understand spending and payment behavior deeper.
+
+## 🧠Tools & Technologies
+- Excel : Data cleaning, transformation, pivot analysis
+- Tableau :Dashboard development, data visualization
+- Microsoft Powerpoint :Presenting insights and business recommendations
+
+## 🧑‍💻Team Members
+- Bavya Nalajala
+- Koumudi Vellanki
+- Bhavana Sarvesh
+- Ananthakrishnan Mohan Menon
+
